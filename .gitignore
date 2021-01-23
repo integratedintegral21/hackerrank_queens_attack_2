@@ -1,0 +1,7 @@
+Queen2.sln
+.git/
+.vs/
+Debug/
+Queen2/Debug
+Queen2/*.vcxproj
+Queen2/*.vcxproj.*
